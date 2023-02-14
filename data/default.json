@@ -1,0 +1,12 @@
+{
+  "ROOT": {
+    "type": { "resolvedName": "Container" },
+    "isCanvas": true,
+    "props": { "children": [] },
+    "displayName": "Container",
+    "custom": { "displayName": "App" },
+    "hidden": false,
+    "nodes": [],
+    "linkedNodes": {}
+  }
+}
